@@ -1,0 +1,14 @@
+AI for Climate Action: Forecasting Carbon Emissions
+
+Climate change poses a significant global challenge, 
+and understanding carbon emission trends is vital for effective mitigation strategies. 
+This project applies linear regression to forecast carbon emissions per capita, 
+utilizing historical data from 1960 to the present.
+
+By analyzing emissions trends, 
+the model provides insights into future emission scenarios, 
+aiding policymakers in developing informed strategies to combat climate change. 
+The results underscore the importance of data-driven approaches in achieving SDG 13: Climate Action.
+
+Ethical considerations include ensuring data accuracy, 
+transparency in model development, and responsible use of predictions to inform policy decisions.
