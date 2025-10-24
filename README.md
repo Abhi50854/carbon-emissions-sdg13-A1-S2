@@ -28,4 +28,4 @@ This project aims to forecast carbon emissions per capita using linear regressio
 Accurate forecasting of carbon emissions is crucial for effective climate policy. This model aids in understanding emission trends, supporting informed decision-making for sustainable development.
 
 ## Author
-[Your Name]
+[Abhimanyu Adhikari]
